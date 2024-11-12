@@ -1,3 +1,3 @@
 echo "Hello from Jenkins!"
-exit 1
+sleep 600
 
