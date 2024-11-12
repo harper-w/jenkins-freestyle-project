@@ -1,4 +1,3 @@
-echo "Starting build..."
-sleep 10
-echo "Hello World!"
+echo "Hello from Jenkins!"
+exit 1
 
